@@ -31,24 +31,24 @@ This is a web based application developed for health related based website in in
 
    
 
-### About  -
+### About Us  -
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/112318283/212484538-9255ae41-e400-4bd3-ab17-e1e6e3bff69d.png)
 
 
 
-### Pages - {Icons}
+### Pages - ( Icons )
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/112318283/212484593-974e33bc-6969-4918-9d3d-62e485f801ac.png)
 
 
 
-### Contact us -
+### Contact Us -
 ![Screenshot (47)](https://user-images.githubusercontent.com/112318283/212484628-349be550-a5ac-4f5f-a56d-35da3ac61130.png)
 
 
 
-### health bot
+### Health Bot
 ![Screenshot (48)](https://user-images.githubusercontent.com/112318283/212484676-3e1afa71-5fad-41b9-9be3-561ec7c610ae.png)
 
 
