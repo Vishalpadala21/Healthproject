@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 *Project Link* - https://purple-sand-0b0127600.2.azurestaticapps.net
 
-*project demo video link* - 
+*Project demo video link* - 
 
 ## Azure technologies used for Project
 
